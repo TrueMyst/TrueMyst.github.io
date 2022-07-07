@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 10px 5%;
+    font-family: 'Source Code Pro', monospace;
+}
+
+body {
+    background-color: #1E2124;
+    color: rgb(234, 233, 233);
+}
+
+hr {
+    padding: 0px;
+    margin: auto;
+    width: 30%
+}
+
+.emptyblock {
+    padding-top: 4%;
+}
+/* --------- me__info Section ---------*/
+
+.me__info {
+    padding-bottom: -20px;
+}
+
+.me__info-2 {
+    font-size: 18px;
+    color: rgb(160, 160, 160);
+}
+
+/* --------- about__me Section ---------*/
+.about__me-1 {
+    font-size: 18px;
+}
+
+.about__me-2 {
+    text-align: center;
+}
+
+.about__me-2 ul {
+    list-style: none;
+
+    display: flex;
+    justify-content: center;
+}
+
+/* --------- FontAwesome's Icons ---------*/
+.myst_icon {
+    font-size: 25px;
+    padding: 1px;
+}
+
+.myst_icon-2 {
+    padding: 0%;
+}
+
+.icons_ {
+    font-size: 3rem;
+}
