@@ -60,6 +60,8 @@ hr {
 
 /* --------- Cards ---------*/
 .cards {
+    margin: auto;
+
     height: 230px;
     width: 230px;
 
